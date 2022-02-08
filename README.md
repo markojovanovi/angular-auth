@@ -5,7 +5,7 @@ Authentication app powered by Angular and [Cosmic JS](https://cosmicjs.com). [Re
 
 ### [View the demo](https://cosmicjs.com/apps/angular-authentication-app)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
 # Get Started
 
